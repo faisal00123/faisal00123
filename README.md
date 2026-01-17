@@ -16,7 +16,7 @@
 
 
 ###
-My name is Faisal Fayyaz, and I am a Front-End Developer.
+
 
 I’m currently sharpening my skills in the MERN stack (MongoDB, Express.js, React, Node.js) at Saylani Mass IT Training Center. I’m passionate about building modern, full-stack applications and integrating the power of front-end and back-end technologies to create seamless, interactive web experiences.
 
