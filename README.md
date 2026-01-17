@@ -19,8 +19,22 @@
 <h3 align="left">👋 About Me</h3>
 
 ###
+My name is Faisal Fayyaz, and I am a Front-End Developer.
 
-<p align="left">I’m a Web Designer & Developer specializing in modern, responsive, and clean UI websites.  <br>💻 Focused on custom code, and scalable web applications.  <br>🚀 I build fast, SEO-friendly solutions designed for real business growth.</p>
+I’m currently sharpening my skills in the MERN stack (MongoDB, Express.js, React, Node.js) at Saylani Mass IT Training Center. I’m passionate about building modern, full-stack applications and integrating the power of front-end and back-end technologies to create seamless, interactive web experiences.
+
+The MERN stack allows me to work with JavaScript across the entire development process—from database to server to user interface—which excites me greatly. I’m highly motivated to master this stack and apply it to real-world, scalable projects.
+
+👨‍💻 About Me
+
+I’m Faisal Fayyaz, a frontend developer who loves building clean, responsive, and user-focused web interfaces. I enjoy turning ideas into reality in the browser using efficient, maintainable code.
+
+My journey started with HTML and CSS and gradually expanded into JavaScript, React, and backend fundamentals. I thrive on learning new technologies, improving my skills, and collaborating with like-minded developers. My goal is simple: make the web better—one pixel at a time.
+
+Over time, I’ve worked on multiple real-world projects, including e-commerce websites, landing pages, and interactive web applications. I’m especially interested in UI/UX design, problem-solving, and continuously pushing my creative and technical boundaries.
+
+When I’m not coding, I enjoy exploring new frameworks, engaging with developer communities, and writing clean, scalable, and maintainable code. I also love sharing what I learn with others—because I truly believe learning is a two-way street.
+<!-- <p align="left">I’m a Web Designer & Developer specializing in modern, responsive, and clean UI websites.  <br>💻 Focused on custom code, and scalable web applications.  <br>🚀 I build fast, SEO-friendly solutions designed for real business growth.</p> -->
 
 ###
 
