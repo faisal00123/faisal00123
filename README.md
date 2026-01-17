@@ -14,9 +14,6 @@
 
 <h1 align="center">Thanks for visiting my GitHub</h1>
 
-###
-
-<h3 align="left">👋 About Me</h3>
 
 ###
 My name is Faisal Fayyaz, and I am a Front-End Developer.
@@ -25,7 +22,7 @@ I’m currently sharpening my skills in the MERN stack (MongoDB, Express.js, Rea
 
 The MERN stack allows me to work with JavaScript across the entire development process—from database to server to user interface—which excites me greatly. I’m highly motivated to master this stack and apply it to real-world, scalable projects.
 
-👨‍💻 About Me
+<h4>👨‍💻 About Me </h4>
 
 I’m Faisal Fayyaz, a frontend developer who loves building clean, responsive, and user-focused web interfaces. I enjoy turning ideas into reality in the browser using efficient, maintainable code.
 
